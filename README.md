@@ -3,9 +3,11 @@
 
 # Code (rt_1101)
 I made the file called "rt_1101." I added many comments in the code, so I would like you to read. 
+
 <br>
-Mainly, I did two things. ①One was to get the information on golden boxes in the function of "find_token." ②The other was implementation of catching silver boxes and avoiding the wall composed of golden boxes done in main function.
+Mainly, I did two things. ①One was to get the information on golden boxes in the function of "find_token." (Line71-92) ②The other was implementation of catching silver boxes and avoiding the wall composed of golden boxes done in main function. (Line95-137)
 <br>
+
 ①Getting the information on golden boxes
 
 <br>
