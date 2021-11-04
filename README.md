@@ -2,11 +2,12 @@
 [![Flowchart](https://i.gyazo.com/23ec5ad130141480e6bdb4d353887a55.jpg)](https://gyazo.com/23ec5ad130141480e6bdb4d353887a55)
 
 # Code (rt_1101)
-I made the file called "rt_1101"
+I made the file called "rt_1101." I added many comments in the code, so I would like you to read. Mainly, I did two things. One was to get the information on golden boxes in the function of "find_token." The other was implementation of catching silver boxes and avoiding the wall composed of golden boxes done in main function.
 <br>
-'''
-gold
-'''
+①Getting the information on golden boxes
+<br>
+②Implementation of catching silver boxes and avoiding the wall
+
 
 # Result on YouTube
 Result is shown in the video below.
