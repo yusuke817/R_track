@@ -2,7 +2,7 @@
 [![Flowchart](https://i.gyazo.com/23ec5ad130141480e6bdb4d353887a55.jpg)](https://gyazo.com/23ec5ad130141480e6bdb4d353887a55)
 
 # Code (rt_1101)
-I made the file called "rt_1101." I added many comments in the code, so I would like you to read. 
+I made the file called "rt_1101" to realize the tasks. I added many comments in the code, so I would like you to read. 
 
 <br>
 Mainly, I did two things. ①One was to get the information on golden boxes in the function of "find_token." (Line71-92) ②The other was implementation of catching silver boxes and avoiding the wall composed of golden boxes done in main function. (Line95-137) Each of the thresholds related to distances and angles is decided experimentally.
