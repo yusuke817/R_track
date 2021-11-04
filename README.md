@@ -6,7 +6,7 @@ Code
 
 
 Result on YouTube
-[embed]https://www.youtube.com/watch?v=7eQLzrq4qyo
+[embed] https://www.youtube.com/watch?v=7eQLzrq4qyo
 
 Result on YouTube (3x)
-[embed]https://youtu.be/atDz4uObtVs
+[embed] https://youtu.be/atDz4uObtVs
