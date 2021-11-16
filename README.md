@@ -1,5 +1,7 @@
 # Flowchart
 []([![Flowchart](https://i.gyazo.com/23ec5ad130141480e6bdb4d353887a55.jpg)](https://gyazo.com/23ec5ad130141480e6bdb4d353887a55))
+<img width="288" alt="スクリーンショット 2021-11-16 14 10 54" src="https://user-images.githubusercontent.com/46062824/141991388-f6305256-7f0a-4914-846e-fbd821e94354.png">
+
 
 # Code (rt_1101)
 I made the file called "rt_1101" to realize the tasks. I added many comments in the code, so I would like you to read. 
