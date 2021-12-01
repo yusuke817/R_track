@@ -5,7 +5,6 @@
 
 # Explanation about the situation and implementation
 The blue dot in the circuit is the robot controlled in this assignment.
-
 <br>
 There are three nodes I developped: driving_node, speed_server_node and UI_node.
 <br>
