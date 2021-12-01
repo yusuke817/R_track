@@ -1,14 +1,19 @@
 # Purpose
 ①Robot can drive in the circuit automatically without crashing on the walls.
+<br>
 ②An user can change the speed of the robot.
 
 # Explanation about the situation and implementation
 The blue dot in the circuit is the robot controlled in this assignment.
 
+<br>
 There are three nodes I developped: driving_node, speed_server_node and UI_node.
+<br>
 A.Driving_node is developped for controlling the movement of the robot.
-B.Speed_server_node is developped for 
-C.
+<br>
+B.Speed_server_node is developped for changing the speed of the robot depending on the user inputs.
+<br>
+C.UI_node is developped for getting user inputs and the request for moving the robot to the initial position.
 
 # Flowchart
 []([![Flowchart](https://i.gyazo.com/23ec5ad130141480e6bdb4d353887a55.jpg)](https://gyazo.com/23ec5ad130141480e6bdb4d353887a55))
